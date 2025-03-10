@@ -25,4 +25,4 @@ jobs:
 
     - name: Run pytest
       run: |
-        pytest --maxfail=1 --disable-warnings -q  # Run pytest with specific options
+        pytest --maxfail=1 --disable-warnings -q  # Run pytest with specific 
